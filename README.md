@@ -7,7 +7,9 @@ Instead of just providing standard lab solutions, I have modified and optimized 
 
 Feel free to explore, clone, and test the codes!
 
-Selamat datang di repositori saya! Repositori ini merupakan dokumentasi lengkap dari materi perkuliahan serta praktikum pemrograman bahasa C yang telah dikerjakan selama menempuh studi di Program Studi Teknik Elektro.Sesuai dengan judulnya, repositori ini berfokus pada konsep-konsep dasar pemrograman C. Isinya disusun sebagai referensi bagi siapa saja yang ingin memperkuat pemahaman dasar, mempelajari logika pemrograman, maupun mengeksplorasi berbagai penerapan bahasa C.
+Selamat datang di repositori saya! Repositori ini merupakan dokumentasi lengkap dari materi perkuliahan serta praktikum pemrograman bahasa C yang telah dikerjakan selama menempuh studi di Program Studi Teknik Elektro.
+
+Repositori ini berfokus pada konsep-konsep dasar pemrograman C. Isinya disusun sebagai referensi bagi siapa saja yang ingin memperkuat pemahaman dasar, mempelajari logika pemrograman, maupun mengeksplorasi berbagai penerapan bahasa C.
 
 Keunikan repositori ini terletak pada beberapa kode program yang telah dimodifikasi dan dioptimalkan, yang tidak hanya menampilkan solusi praktikum sebagaimana mestinya. Dengan demikian, pengguna dapat membandingkan berbagai pendekatan penyelesaian, menganalisis perbedaan hasil eksekusi, serta memahami bagaimana perubahan pada suatu program dapat memengaruhi alur logika dan implementasinya.
 
